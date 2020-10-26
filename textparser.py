@@ -8,7 +8,6 @@ Created on 2018/12/05
 '''
 import types
 import csv
-#from time import sleep
 from encodings.utf_8 import encode
 import sys
 import MeCab
